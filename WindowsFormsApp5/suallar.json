@@ -1,0 +1,362 @@
+[
+  {
+    "SualMetni": "2, 4, 8, 16, 32, ?",
+    "VariantA": "48",
+    "VariantB": "56",
+    "VariantC": "64",
+    "VariantD": "72",
+    "DogruCavabVariantı": "C",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "5, 10, 15, 20, 25, ?",
+    "VariantA": "30",
+    "VariantB": "35",
+    "VariantC": "40",
+    "VariantD": "45",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "1, 1, 2, 3, 5, 8, ?",
+    "VariantA": "10",
+    "VariantB": "11",
+    "VariantC": "12",
+    "VariantD": "13",
+    "DogruCavabVariantı": "D",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "Hansı söz digərlərindən fərqlidir?",
+    "VariantA": "Alma",
+    "VariantB": "Armud",
+    "VariantC": "Üzüm",
+    "VariantD": "Stol",
+    "DogruCavabVariantı": "D",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "A, C, E, G, ?",
+    "VariantA": "H",
+    "VariantB": "I",
+    "VariantC": "J",
+    "VariantD": "K",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "3, 9, 27, 81, ?",
+    "VariantA": "100",
+    "VariantB": "162",
+    "VariantC": "243",
+    "VariantD": "324",
+    "DogruCavabVariantı": "C",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "Hansı rəqəm cüt deyil?",
+    "VariantA": "2",
+    "VariantB": "4",
+    "VariantC": "6",
+    "VariantD": "7",
+    "DogruCavabVariantı": "D",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "10, 20, 40, 80, ?",
+    "VariantA": "100",
+    "VariantB": "120",
+    "VariantC": "160",
+    "VariantD": "200",
+    "DogruCavabVariantı": "C",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "B, D, F, H, ?",
+    "VariantA": "I",
+    "VariantB": "J",
+    "VariantC": "K",
+    "VariantD": "L",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "12, 24, 36, 48, ?",
+    "VariantA": "50",
+    "VariantB": "60",
+    "VariantC": "72",
+    "VariantD": "84",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "1, 4, 9, 16, 25, ?",
+    "VariantA": "30",
+    "VariantB": "36",
+    "VariantC": "40",
+    "VariantD": "49",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "Z, X, V, T, ?",
+    "VariantA": "R",
+    "VariantB": "S",
+    "VariantC": "Q",
+    "VariantD": "P",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "2, 3, 5, 7, 11, ?",
+    "VariantA": "12",
+    "VariantB": "13",
+    "VariantC": "14",
+    "VariantD": "15",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "Hansı fərqlidir?",
+    "VariantA": "Qızıl",
+    "VariantB": "Gümüş",
+    "VariantC": "Bürünc",
+    "VariantD": "Dəmir",
+    "DogruCavabVariantı": "C",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "4, 9, 16, 25, 36, ?",
+    "VariantA": "42",
+    "VariantB": "49",
+    "VariantC": "56",
+    "VariantD": "64",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "A, B, D, G, ?",
+    "VariantA": "K",
+    "VariantB": "L",
+    "VariantC": "M",
+    "VariantD": "N",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "1, 8, 27, 64, ?",
+    "VariantA": "81",
+    "VariantB": "100",
+    "VariantC": "125",
+    "VariantD": "144",
+    "DogruCavabVariantı": "C",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "Hansı fərqlidir?",
+    "VariantA": "Üzbəüz",
+    "VariantB": "Qarşı-qarşıya",
+    "VariantC": "Yan-yana",
+    "VariantD": "Tək-tək",
+    "DogruCavabVariantı": "D",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "10, 13, 16, 19, 22, ?",
+    "VariantA": "24",
+    "VariantB": "25",
+    "VariantC": "26",
+    "VariantD": "27",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "A, Z, B, Y, C, ?",
+    "VariantA": "D",
+    "VariantB": "W",
+    "VariantC": "X",
+    "VariantD": "V",
+    "DogruCavabVariantı": "C",
+    "Kateqoriya": "Məntiq"
+  },
+  {
+    "SualMetni": "Azərbaycanın paytaxtı haradır?",
+    "VariantA": "Gəncə",
+    "VariantB": "Bakı",
+    "VariantC": "Sumqayıt",
+    "VariantD": "Naxçıvan",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən uzun çayı hansıdır?",
+    "VariantA": "Kür",
+    "VariantB": "Araz",
+    "VariantC": "Qanıx",
+    "VariantD": "Tərtər",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Hansı qitə Azərbaycanın ərazisində yerləşir?",
+    "VariantA": "Avropa",
+    "VariantB": "Asiya",
+    "VariantC": "Afrika",
+    "VariantD": "Avropa və Asiya",
+    "DogruCavabVariantı": "D",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın dövlət dili hansıdır?",
+    "VariantA": "Rus",
+    "VariantB": "Türk",
+    "VariantC": "Azərbaycan",
+    "VariantD": "İngilis",
+    "DogruCavabVariantı": "C",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın pul vahidi hansıdır?",
+    "VariantA": "Manat",
+    "VariantB": "Rubl",
+    "VariantC": "Dollar",
+    "VariantD": "Avro",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən böyük gölü hansıdır?",
+    "VariantA": "Göygöl",
+    "VariantB": "Xanbulan",
+    "VariantC": "Sarısu",
+    "VariantD": "Xəzər dənizi",
+    "DogruCavabVariantı": "D",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın milli bayrağında neçə ulduz var?",
+    "VariantA": "1",
+    "VariantB": "3",
+    "VariantC": "5",
+    "VariantD": "8",
+    "DogruCavabVariantı": "D",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən yüksək dağı hansıdır?",
+    "VariantA": "Bazardüzü",
+    "VariantB": "Şahdağ",
+    "VariantC": "Tufandağ",
+    "VariantD": "Xınalıq",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən böyük şəhəri hansıdır?",
+    "VariantA": "Gəncə",
+    "VariantB": "Bakı",
+    "VariantC": "Sumqayıt",
+    "VariantD": "Naxçıvan",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycan neçə il müstəqillik qazandı? (2023-cü ilə görə)",
+    "VariantA": "25",
+    "VariantB": "30",
+    "VariantC": "32",
+    "VariantD": "35",
+    "DogruCavabVariantı": "C",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən qədim şəhəri hansıdır?",
+    "VariantA": "Bakı",
+    "VariantB": "Şəki",
+    "VariantC": "Şamaxı",
+    "VariantD": "Qəbələ",
+    "DogruCavabVariantı": "D",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın milli himninin müəllifi kimdir?",
+    "VariantA": "Üzeyir Hacıbəyov",
+    "VariantB": "Səid Rüstəmov",
+    "VariantC": "Əhməd Cavad",
+    "VariantD": "Tofiq Quliyev",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın rəsmi dini hansıdır?",
+    "VariantA": "Xristianlıq",
+    "VariantB": "İslam",
+    "VariantC": "İudaizm",
+    "VariantD": "Dövlət dini yoxdur",
+    "DogruCavabVariantı": "D",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən məşhur xalq rəqsi hansıdır?",
+    "VariantA": "Yallı",
+    "VariantB": "Təzə bayram",
+    "VariantC": "Uzundərə",
+    "VariantD": "Cəngi",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən böyük sənaye şəhəri hansıdır?",
+    "VariantA": "Bakı",
+    "VariantB": "Sumqayıt",
+    "VariantC": "Gəncə",
+    "VariantD": "Mingəçevir",
+    "DogruCavabVariantı": "B",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən böyük hava limanı haradadır?",
+    "VariantA": "Heydər Əliyev Beynəlxalq Hava Limanı",
+    "VariantB": "Gəncə Beynəlxalq Hava Limanı",
+    "VariantC": "Naxçıvan Beynəlxalq Hava Limanı",
+    "VariantD": "Lənkəran Beynəlxalq Hava Limanı",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən böyük universiteti hansıdır?",
+    "VariantA": "Bakı Dövlət Universiteti",
+    "VariantB": "Azərbaycan Dövlət İqtisad Universiteti",
+    "VariantC": "Azərbaycan Tibb Universiteti",
+    "VariantD": "ADA Universiteti",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən böyük kitabxanası haradadır?",
+    "VariantA": "Milli Kitabxana",
+    "VariantB": "Bakı Kitabxanası",
+    "VariantC": "Gəncə Kitabxanası",
+    "VariantD": "Nizami Kitabxanası",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən böyük teatrı hansıdır?",
+    "VariantA": "Azərbaycan Dövlət Akademik Opera və Balet Teatrı",
+    "VariantB": "Azərbaycan Dövlət Rus Dram Teatrı",
+    "VariantC": "Azərbaycan Dövlət Musiqili Komediya Teatrı",
+    "VariantD": "Azərbaycan Dövlət Kukla Teatrı",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  },
+  {
+    "SualMetni": "Azərbaycanın ən böyük stadionu hansıdır?",
+    "VariantA": "Bakı Olimpiya Stadionu",
+    "VariantB": "Tofiq Bəhramov Stadionu",
+    "VariantC": "Dalğa Arena",
+    "VariantD": "Şəfa Stadionu",
+    "DogruCavabVariantı": "A",
+    "Kateqoriya": "Ümumi Bilik"
+  }
+]
